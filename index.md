@@ -2,8 +2,8 @@
 layout: cv
 title: Sayak Khatua's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sayak Khatua
+Economist.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Evaluation Specialist, International Initiative for Impact Evaluation.
 
 ### Specialized in
 

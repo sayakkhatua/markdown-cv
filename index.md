@@ -6,8 +6,8 @@ title: Sayak Khatua's CV
 Economist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="skhatua@3ieimpact.org">skhatua@3ieimpact.org</a>
+| <a href="http://sayakkhatua.github.io">sayakkhatua.github.io</a>
 </div>
 
 
@@ -17,12 +17,12 @@ Evaluation Specialist, International Initiative for Impact Evaluation.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Development Economics, Policy Analysis, Migration, Climate change, Evidence Synthesis, Big data in International development, and Machine Learning for Causal Inference.
 
 
 ## Education
